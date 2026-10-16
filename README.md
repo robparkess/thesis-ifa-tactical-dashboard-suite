@@ -2,6 +2,8 @@
 
 **MSc Data Analytics in Sport, TU Dublin: Client project with the Irish Football Association**
 
+[Download the full case study (PDF)](https://github.com/robparkess/thesis-ifa-tactical-dashboard-suite/raw/main/IFA_Portfolio_Case_Study_With_Dashboards.pdf)
+
 ## The brief
 
 For my thesis, I reached out to the Irish Football Association and asked if I could work with them to build a tool that would help their coaching staff prepare for an upcoming competitive campaign. Smaller national associations often don't have the same analytical resources as bigger clubs, so the aim was to build something genuinely useful: something that didn't cost anything to keep using and didn't need a data background to understand.
